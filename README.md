@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ftelnov
-- 👀 I’m interested in complex and challenging problems, mostly related to backend-side. 
-- 🌱 I’m currently enhancing my UNIX and Rust knowledge.
-- 💞️ I’m looking to collaborate on any complex system. The harder requirements are for backend parts, the more interesting system is for me!
-- 📫 How to reach me - @ftelnov (Telegram) / ftelnov@protonmail.com (email).
+- Senior software engineer excels in designing & implementing robust distributed systems, meeting stringent SLAs.
+- I write in many langs and domains. Rust preferred for its balance of performance, security, maintainability.
+
+📫 How to reach me - @ftelnov (Telegram) / ftelnov@protonmail.com (email).
 
 <!---
 ftelnov/ftelnov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
