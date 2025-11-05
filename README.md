@@ -1,4 +1,4 @@
-- Senior software engineer excels in designing & implementing robust distributed systems, meeting stringent SLAs.
+- Senior software engineer excels in designing & implementing robust distributed platforms.
 - I write in many langs and domains. Rust preferred for its balance of performance, security, maintainability.
 
 📫 How to reach me - @ftelnov (Telegram) / ftelnov@protonmail.com (email).
